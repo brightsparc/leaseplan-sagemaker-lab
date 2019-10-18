@@ -11,6 +11,6 @@ Exploratory data analysis
 
 Algorithms for anomoly detection
 
-* [Algo 1](002-lease_plan_data_classic_model.ipynb) SciKit learn models for `Elliptic Envelope` and `Isolation Forest` including deployment
+* [Algo 1](02-lease_plan_data_classic_model.ipynb) SciKit learn models for `Elliptic Envelope` and `Isolation Forest` including deployment
 * [Algo 2](03-lease_plan_data_autoencoder.ipynb) Keras Autoencoder
 * [Algo 3](04-lease_plan_data_randomcutforest.ipynb) Sagemaker Random Cut Forests
